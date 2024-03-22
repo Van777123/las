@@ -1,0 +1,44 @@
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<BODY><BR>
+<TABLE>
+<TBODY>
+<TR>
+<TD width=30></TD>
+<TD>
+<TABLE align=center>
+<TBODY>
+<TR>
+<TD style="BORDER-TOP: #397448 1px solid; HEIGHT: 330px; BORDER-RIGHT: #397448 1px solid; WIDTH: 470px; BORDER-BOTTOM: #397448 1px solid; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 30px; BORDER-LEFT: #397448 1px solid; PADDING-RIGHT: 30px; BACKGROUND-COLOR: #ffffff; border-radius: 4px 0px 2px 0px"><FONT style="FONT-SIZE: 14px" face=arial><FONT style="FONT-SIZE: 20px; COLOR: #424242" face=arial>
+
+[[-Domain-]] &#23433;&#20840;&#36890;&#30693;
+
+</FONT> <BR><BR>[[-User-]] <BR>
+
+&#25105;&#20204;&#20351;&#29992;&#20197;&#19979;&#25968;&#25454;&#26816;&#27979;&#21040;&#24744;&#30340;&#24080;&#25143;&#20986;&#29616;&#24322;&#24120;&#30331;&#24405;
+
+<BR>
+<UL>
+<LI>&#29992;&#25143;&#36523;&#20221;: [[-Email-]] 
+<LI>&#26102;&#38388;&#25139;: [[-Now-: WW, MM d, yy h:i AP]] 
+<LI>&#30331;&#24405;IP: 95.31.18.119 
+<LI>&#22320;&#28857;: Moscow, Russia </LI>
+</UL>
+
+&#20026;&#20102;&#20445;&#25252;&#24744;&#30340;&#24080;&#25143;&#65292;&#35831;&#20351;&#29992;&#19979;&#38754;&#30340;&#25353;&#38062;: 
+
+<BR><BR>
+<TABLE cellSpacing=0 align=left>
+<TBODY>
+<TR>
+<TD style="HEIGHT: 40px; WIDTH: 160px; BACKGROUND-COLOR: #397448; border-radius: 5px 0px 5px 0px">
+<DIV align=center><A style="TEXT-DECORATION: none" href="https://host.com/index.html#[[-Email-]]">
+<FONT style="FONT-SIZE: 13px; COLOR: #fff" face=arial><B>
+
+&#20445;&#25252;&#25105;&#30340;&#30005;&#23376;&#37038;&#20214;
+
+<B></FONT></A></DIV></B></B></TD></TR></TBODY></TABLE><BR><BR><BR><BR><FONT style="FONT-SIZE: 14px; COLOR: #000" face=arial><FONT style="FONT-SIZE: 15px; COLOR: #397448" face=arial><B>&#35686;&#21578;:</B></FONT> <BR>
+
+&#22914;&#26524;&#24744;&#26410;&#33021;&#20445;&#25252;&#24744;&#30340;&#24080;&#25143;&#65292;&#24744;&#30340;&#24080;&#25143;&#23558;&#34987;&#20851;&#38381;&#65292;&#25152;&#26377;&#30005;&#23376;&#37038;&#20214;&#26381;&#21153;&#23558;&#26242;&#20572; 48 &#23567;&#26102;
+
+</FONT></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>
